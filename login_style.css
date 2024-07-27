@@ -10,7 +10,7 @@ body, html {
   }
 
   .login-container {
-    background-color: #fff;
+    background-color: #ffff;
     text-align: center;
     max-width: 400px;
     width: 100%;
@@ -42,7 +42,7 @@ body, html {
   }
 
   .social-buttons button {
-    background-color: #fff;
+    background-color: #ffff;
     font-family: "Poppins", sans-serif;
     color: #333;
     border: 1px solid #ddd;
